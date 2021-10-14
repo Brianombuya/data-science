@@ -1,2 +1,2 @@
-# data-science
-data science and machin learning projects
+# covid19 prediction using symptoms
+data science and machine learning projects
